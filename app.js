@@ -1,10 +1,3 @@
-<style>
-/* ...existing styles... */
-.dashboard-order-card {
-  @apply bg-white dark:bg-gray-800 p-4 rounded-lg shadow-md mb-4 transition hover:shadow-xl hover:scale-105;
-}
-</style>
-
 <script>
 // Initialize Firebase (replace with your config)
 const firebaseConfig = {
