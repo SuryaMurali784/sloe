@@ -1,4 +1,7 @@
-
+<style>
+.dashboard-order-card {
+  @apply bg-white dark:bg-gray-800 p-4 rounded-lg shadow-md mb-4 transition hover:shadow-xl hover:scale-105;
+}
 body {
   font-family: sans-serif;
   margin: 0;
@@ -20,3 +23,4 @@ nav a {
   padding: 2rem;
   text-align: center;
 }
+</style>
