@@ -186,7 +186,7 @@ function renderUserDashboard(orders = []) {
           ${order.items.map(item => `<li>• ${item.name}</li>`).join('')}
         </ul>
       </div>
-    `;
+    ;
   });
 }
 </script>
